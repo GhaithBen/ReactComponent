@@ -1,0 +1,11 @@
+* {
+    background-color: gray;
+}
+.Name {
+    align-content: center;
+}
+
+.name {
+    display: flex;
+    justify-content: center;
+}
